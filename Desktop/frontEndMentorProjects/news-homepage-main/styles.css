@@ -98,10 +98,7 @@ body{
   /* font-family: Inter; */
   font-weight: 400;
 }
-.container nav ul li{
-  /* list-style: none; */
-  /* text-decoration: none; */
-}
+
 
 /* For mobile */
 .header nav .open{
@@ -305,9 +302,7 @@ p{
     margin-bottom: 1.5rem;
   }
    
-  .section .sec-1 article button{
-    /* margin-top: 2rem; */
-  }
+ 
   .cards{
     width: 100%;
     column-gap: 10rem;
